@@ -1,0 +1,2 @@
+C:/Users/DonobanLAP2024/Documents/VisualStudio/OpenGL1/OpenGL_Stuff/Include/glm/out/build/x64-Debug/CMakeFiles/edit_cache.dir
+C:/Users/DonobanLAP2024/Documents/VisualStudio/OpenGL1/OpenGL_Stuff/Include/glm/out/build/x64-Debug/CMakeFiles/rebuild_cache.dir

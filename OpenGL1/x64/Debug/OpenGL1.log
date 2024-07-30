@@ -1,0 +1,32 @@
+﻿  glad.c
+  C3_Exercise_16_Load3DModel_Task1.cpp
+C:\Users\DonobanLAP2024\Documents\OpenGL1\OpenGL_Stuff\Include\learnopengl\shader.h(55,40): warning C4101: 'e': variable local sin referencia
+  (compilando archivo de origen "C3_Exercise_16_Load3DModel_Task1.cpp")
+  
+C:\Users\DonobanLAP2024\Documents\OpenGL1\OpenGL_Stuff\Include\learnopengl\mesh.h(84,50): warning C4267: 'argumento': conversión de 'size_t' a 'GLsizei'; posible pérdida de datos
+  (compilando archivo de origen "C3_Exercise_16_Load3DModel_Task1.cpp")
+  
+C:\Users\DonobanLAP2024\Documents\OpenGL1\OpenGL1\C3_Exercise_16_Load3DModel_Task1.cpp(105,28): warning C4244: 'inicializando': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\DonobanLAP2024\Documents\OpenGL1\OpenGL1\C3_Exercise_16_Load3DModel_Task1.cpp(180,17): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\DonobanLAP2024\Documents\OpenGL1\OpenGL1\C3_Exercise_16_Load3DModel_Task1.cpp(181,17): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\DonobanLAP2024\Documents\OpenGL1\OpenGL1\C3_Exercise_16_Load3DModel_Task1.cpp(185,19): warning C4244: 'inicializando': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\DonobanLAP2024\Documents\OpenGL1\OpenGL1\C3_Exercise_16_Load3DModel_Task1.cpp(186,19): warning C4244: 'inicializando': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\DonobanLAP2024\Documents\OpenGL1\OpenGL1\C3_Exercise_16_Load3DModel_Task1.cpp(188,13): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\DonobanLAP2024\Documents\OpenGL1\OpenGL1\C3_Exercise_16_Load3DModel_Task1.cpp(189,13): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\DonobanLAP2024\Documents\OpenGL1\OpenGL1\C3_Exercise_16_Load3DModel_Task1.cpp(198,31): warning C4244: 'argumento': conversión de 'double' a 'float'; posible pérdida de datos
+glfw3.lib(init.obj) : warning LNK4099: no se encontró PDB '' con 'glfw3.lib(init.obj)' o en ''; se vinculará el objeto sin tener en cuenta información de depuración
+glfw3.lib(window.obj) : warning LNK4099: no se encontró PDB '' con 'glfw3.lib(window.obj)' o en ''; se vinculará el objeto sin tener en cuenta información de depuración
+glfw3.lib(input.obj) : warning LNK4099: no se encontró PDB '' con 'glfw3.lib(input.obj)' o en ''; se vinculará el objeto sin tener en cuenta información de depuración
+glfw3.lib(context.obj) : warning LNK4099: no se encontró PDB '' con 'glfw3.lib(context.obj)' o en ''; se vinculará el objeto sin tener en cuenta información de depuración
+glfw3.lib(win32_init.obj) : warning LNK4099: no se encontró PDB '' con 'glfw3.lib(win32_init.obj)' o en ''; se vinculará el objeto sin tener en cuenta información de depuración
+glfw3.lib(win32_monitor.obj) : warning LNK4099: no se encontró PDB '' con 'glfw3.lib(win32_monitor.obj)' o en ''; se vinculará el objeto sin tener en cuenta información de depuración
+glfw3.lib(win32_time.obj) : warning LNK4099: no se encontró PDB '' con 'glfw3.lib(win32_time.obj)' o en ''; se vinculará el objeto sin tener en cuenta información de depuración
+glfw3.lib(win32_thread.obj) : warning LNK4099: no se encontró PDB '' con 'glfw3.lib(win32_thread.obj)' o en ''; se vinculará el objeto sin tener en cuenta información de depuración
+glfw3.lib(monitor.obj) : warning LNK4099: no se encontró PDB '' con 'glfw3.lib(monitor.obj)' o en ''; se vinculará el objeto sin tener en cuenta información de depuración
+glfw3.lib(vulkan.obj) : warning LNK4099: no se encontró PDB '' con 'glfw3.lib(vulkan.obj)' o en ''; se vinculará el objeto sin tener en cuenta información de depuración
+glfw3.lib(win32_window.obj) : warning LNK4099: no se encontró PDB '' con 'glfw3.lib(win32_window.obj)' o en ''; se vinculará el objeto sin tener en cuenta información de depuración
+glfw3.lib(win32_joystick.obj) : warning LNK4099: no se encontró PDB '' con 'glfw3.lib(win32_joystick.obj)' o en ''; se vinculará el objeto sin tener en cuenta información de depuración
+glfw3.lib(wgl_context.obj) : warning LNK4099: no se encontró PDB '' con 'glfw3.lib(wgl_context.obj)' o en ''; se vinculará el objeto sin tener en cuenta información de depuración
+glfw3.lib(egl_context.obj) : warning LNK4099: no se encontró PDB '' con 'glfw3.lib(egl_context.obj)' o en ''; se vinculará el objeto sin tener en cuenta información de depuración
+glfw3.lib(osmesa_context.obj) : warning LNK4099: no se encontró PDB '' con 'glfw3.lib(osmesa_context.obj)' o en ''; se vinculará el objeto sin tener en cuenta información de depuración
+  OpenGL1.vcxproj -> C:\Users\DonobanLAP2024\Documents\OpenGL1\x64\Debug\OpenGL1.exe
